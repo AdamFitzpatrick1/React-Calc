@@ -2,8 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project requires mathjs in order to work. To install it, run "npm install mathjs" within the project folder.
-
 ## Available Scripts
 
 In the project directory, you can run:
